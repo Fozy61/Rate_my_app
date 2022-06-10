@@ -21,7 +21,7 @@ class _MyAppState extends State<MyApp> {
   Widget build(BuildContext context) {
     return  Scaffold(
       appBar: AppBar(
-        title: const Text("Test app"),
+        title: const Text("Test app vesion 2"),
         actions: [
           Padding(padding: EdgeInsets.all(10),
             child: IconButton(
